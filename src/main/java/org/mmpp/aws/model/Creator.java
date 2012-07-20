@@ -1,4 +1,4 @@
-package org.mmpp.libs.aws.model;
+package org.mmpp.aws.model;
 
 /**
  * 制作者情報<br>

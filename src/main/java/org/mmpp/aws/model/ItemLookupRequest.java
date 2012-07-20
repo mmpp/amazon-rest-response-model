@@ -1,4 +1,4 @@
-package org.mmpp.libs.aws.model;
+package org.mmpp.aws.model;
 
 public class ItemLookupRequest extends AbstractItemRequest{
 

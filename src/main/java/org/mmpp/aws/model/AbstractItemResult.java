@@ -1,4 +1,4 @@
-package org.mmpp.libs.aws.model;
+package org.mmpp.aws.model;
 
 /**
  * 検索結果抽象クラス<br>

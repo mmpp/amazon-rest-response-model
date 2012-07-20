@@ -1,4 +1,4 @@
-package org.mmpp.libs.aws.model;
+package org.mmpp.aws.model;
 
 /**
  * アイテム抽出結果<br>

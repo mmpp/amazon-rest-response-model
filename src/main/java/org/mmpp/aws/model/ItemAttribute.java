@@ -1,4 +1,4 @@
-package org.mmpp.libs.aws.model;
+package org.mmpp.aws.model;
 
 /**
  * ItemAttributes配下の情報抽象クラス<br>

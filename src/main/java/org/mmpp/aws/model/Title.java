@@ -1,6 +1,6 @@
-package org.mmpp.libs.aws.model;
+package org.mmpp.aws.model;
 
-public class ProductGroup extends ItemAttribute{
+public class Title extends ItemAttribute{
 
 	private String _name;
 	public String getName() {

@@ -1,4 +1,4 @@
-package org.mmpp.libs.aws.model;
+package org.mmpp.aws.model;
 
 /**
  * アイテム検索結果応答抽象クラス<br>
@@ -7,7 +7,7 @@ package org.mmpp.libs.aws.model;
  * @author wataru
  *
  */
-public abstract class AbstractItemResponse {
+public abstract class AbstractItemResponse extends AbstractResponse{
 
 	/**
 	 * 処理要求
