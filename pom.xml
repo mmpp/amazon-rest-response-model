@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.mmpp.amazon</groupId>
   <version>1.0.0</version>
-  <artifactId>amazon-ecs-model</artifactId>
-  <name>Amazon Web Service Model</name>
+  <artifactId>response-model</artifactId>
+  <name>Amazon Web Service Response Model</name>
 	<build>
     	<plugins>
 			<plugin>
