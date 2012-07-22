@@ -98,11 +98,5 @@
                         <name>mmpp Repository</name>
                         <url>dav:http://www.mmpp.org/repos/</url>
                 </repository>
-                <snapshotRepository>
-                        <uniqueVersion>true</uniqueVersion>
-                        <id>mmpp.repos</id>
-                        <name>mmpp Snapshot Repository</name>
-                        <url>dav:http://www.mmpp.org/repos/snapshot</url>
-                </snapshotRepository>
         </distributionManagement>
 </project>
