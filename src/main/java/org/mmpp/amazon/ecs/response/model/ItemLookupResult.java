@@ -1,4 +1,4 @@
-package org.mmpp.aws.model;
+package org.mmpp.amazon.ecs.response.model;
 
 /**
  * アイテム抽出結果<br>

@@ -1,4 +1,4 @@
-package org.mmpp.aws.model;
+package org.mmpp.amazon.ecs.response.model;
 
 /**
  * ItemAttributes配下の情報抽象クラス<br>

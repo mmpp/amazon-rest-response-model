@@ -1,4 +1,4 @@
-package org.mmpp.aws.model;
+package org.mmpp.amazon.ecs.response.model;
 
 /**
  * 著者情報<br>

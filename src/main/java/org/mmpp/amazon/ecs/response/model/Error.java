@@ -1,4 +1,4 @@
-package org.mmpp.aws.model;
+package org.mmpp.amazon.ecs.response.model;
 
 public class Error {
 	private String _code;
