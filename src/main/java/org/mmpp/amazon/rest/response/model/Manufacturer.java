@@ -1,6 +1,7 @@
-package org.mmpp.amazon.ecs.response.model;
+package org.mmpp.amazon.rest.response.model;
 
-public class ProductGroup extends ItemAttribute{
+public class Manufacturer extends ItemAttribute{
+
 
 	private String _name;
 	public String getName() {
@@ -10,5 +11,4 @@ public class ProductGroup extends ItemAttribute{
 	public void setName(String name) {
 		_name = name;
 	}
-
 }

@@ -1,4 +1,4 @@
-package org.mmpp.amazon.ecs.response.model;
+package org.mmpp.amazon.rest.response.model;
 
 /**
  * 検索結果抽象クラス<br>

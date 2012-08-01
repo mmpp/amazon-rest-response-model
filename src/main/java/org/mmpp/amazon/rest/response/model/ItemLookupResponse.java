@@ -1,4 +1,4 @@
-package org.mmpp.amazon.ecs.response.model;
+package org.mmpp.amazon.rest.response.model;
 
 /**
  * アイテム抽出応答クラス<br>
